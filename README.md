@@ -14,7 +14,7 @@ Este nó, permite ao usuário definir a categoria a ser usada, removendo desta s
 | ------------ | ------------ | ------------ | ------------ |
 |  Name  |  Não  | Qualquer coisa. | Frase de bom dia.
 |  Categoria  | **Sim**  | Nome da [categoria](https://github.com/mendoncart/alexa-frases-aleatorias/tree/main/frases) desejada. | bomdia |
-|  Remover subcategoria  | Não  | Nome da subcategoria indesejada. Se houver mais de uma separar por vírgulas. | Normais-Plural, Engraçadas-Plural, Sarcásticas-Plural |
+|  Remover subcategoria  | Não  | Nome da subcategoria **indesejada.** Se houver mais, separar por vírgulas. | Normais-Plural, Engraçadas-Plural, Sarcásticas-Plural |
 
 * Após a excução do nó, este fornecerá a frase sorteada em *msg.payload*.
 

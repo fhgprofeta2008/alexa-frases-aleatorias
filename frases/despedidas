@@ -4,7 +4,11 @@
     "Tchauzinho.",
     "Até mais.",
     "Ok, Vou ficar de olho nas coisas!",
-    "Vou sentir saudades."
+    "Vou sentir saudades.",
+    "Até logo",
+    "Goodbye",
+    "Te espero, até logo",
+    "Te espero,até breve"
   ],
   "Normais-Singular": [
     "Te vejo em breve.",
@@ -16,7 +20,14 @@
   ],
   "Engraçadas": [
     "Falou",
-    "Enquanto uns se divertem, outros trabalham."
+    "Enquanto uns se divertem, outros trabalham.",
+    "Bon voyage",
+    "Arrivederci",
+    "não volte mais aqui",
+    "Hasta la vista baby",
+    "Não sei se te dou tchau, até logo",
+    "Você me disse: até logo meu bem? Tchau!",
+    "Tchau, brigado"    
   ],
   "Engraçadas-Singular": [
     "Se demorar, vai rolar festinha!",
@@ -29,7 +40,10 @@
   "Sarcásticas": [
     "Até que enfim",
     "Graças a Deus um pouco de Paz!",
-    "Finalmente vou ter sossego."
+    "Finalmente vou ter sossego.",
+    "Não volte mais aqui",
+    "escafeda-se, e saia logo daqui.",
+    "Se é por falta de um adeus, até logo.",
   ],
   "Sarcásticas-Singular": [
     "Vá e demore!",
@@ -39,6 +53,7 @@
   "Sarcásticas-Plural": [
     "Vão e demorem!",
     "Podem ficar por lá",
+    "escafedam-se, e saiam logo daqui.",
     "Quanto mais tempo ficarem fora, melhor!"
   ]
 }

@@ -12,7 +12,6 @@
     "Tenha uma ótima noite.",
     "Aproveite o descanso.",
     "Descanse bem.",
-    "Durma bem.",
     "Durma com os anjos.",
     "Tenha um ótimo sono."
   ],
@@ -57,13 +56,13 @@
   ],
   "Sarcásticas-Singular":[
     "Se precisar de alguma coisa, se vire! Preciso descansar também!",
-    "Dorme essa hora e depois reclamam de cansaço.",
-    "Ainda bem, não aguentava mais ficar te respondendo.",
+    "Dorme essa a hora e depois reclamam de cansaço.",
+    "Ainda bem, por hoje chega!",
     "Tudo bem e não me pertube mais por hoje."
   ],
   "Sarcásticas-Plural":[
     "Se precisarem de alguma coisa, se virem! Preciso descansar também!",
-    "Dormem essa hora e depois reclamam de cansaço.",
+    "Dormem essa a hora e depois reclamam de cansaço.",
     "Ainda bem, não aguentava mais ficar respondendo vocês.",
     "Tudo bem e não me pertubem mais por hoje."
   ]

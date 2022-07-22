@@ -21,7 +21,6 @@
     "Tenham uma ótima noite de sono.",
     "Aproveitem o descanso.",
     "Descansem bem.",
-    "Durmam bem.",
     "Durmam com os anjos.",
     "Tenham um ótimo sono."
   ],
@@ -105,7 +104,7 @@
     "Vamos recarregar nossas energias, amanhã tem mais.",
     "Sonhem comigo, bebês.",
     "Descansem o esqueleto.",
-    "Vão na fé.",
+    "Vão na fé e boa noite!",
     "Já vão dormir? e eu fico como?.",
     "Vão dormir que amanhã o bicho pega."
   ],
@@ -132,9 +131,9 @@
     "Tudo bem e não me pertube mais por hoje."
   ],
   "Sarcásticas-Plural":[
-    "Se precisarem de alguma coisa, se virem! Preciso descansar também!",
-    "Dormem essa a hora e depois reclamam de cansaço.",
-    "Ainda bem, não aguentava mais ficar respondendo vocês.",
-    "Tudo bem e não me pertubem mais por hoje."
+    "Se precisarem de alguma coisa, se virem! Preciso descansar também! Boa noite",
+    "Dormem essa a hora e depois reclamam de cansaço. Boa noite",
+    "Ainda bem, não aguentava mais ficar respondendo vocês. Boa noite",
+    "Tudo bem e não me pertubem mais por hoje. Boa noite"
   ]
 }

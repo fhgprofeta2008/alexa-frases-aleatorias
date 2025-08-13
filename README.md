@@ -80,9 +80,9 @@ Abra o nó **MySQLdatabase** (a conexão usada pelas queries) e configure:
 | Charset  | `UTF8`           |
 
 > Use o mesmo usuário/senha criados no banco.  
-> Se necessário, ajuste **Host** para o endereço/IP do seu servidor MariaDB.
-> Deixe o **Database** `node_red_db` selecionado nas propridades do nó. 
-> Selecione e Database `node_red_db` **também** no subfluxo.
+> Se necessário, ajuste **Host** para o endereço/IP do seu servidor MariaDB.  
+> Deixe o **Database** `node_red_db` selecionado nas propridades do nó.   
+> Selecione e Database `node_red_db` **também** no subfluxo.  
 
 ---
 

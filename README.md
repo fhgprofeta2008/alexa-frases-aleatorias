@@ -149,3 +149,9 @@ Limpar cache antigo (ex.: **mais de 7 dias**):
 DELETE FROM cache_frases_temporario
 WHERE data_criacao < NOW() - INTERVAL 7 DAY;
 ```
+
+
+
+> Baseado em [mendoncart/alexa-frases-aleatorias](https://github.com/mendoncart/alexa-frases-aleatorias).
+> Esta variante usa **MariaDB/SQL** e **cache por `node_id`**.
+

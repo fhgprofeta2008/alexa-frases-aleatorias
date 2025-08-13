@@ -58,6 +58,15 @@ FLUSH PRIVILEGES;
 
 ---
 
+## 🔌 Dependências do Node-RED
+
+Instale (via *Palette Manager* do Node-RED):
+
+- `node-red-node-mysql` (nó **mysql**)
+
+> Reinicie o Node-RED após instalar.
+
+
 ## 3️⃣ Configurar o nó **MySQLdatabase** (dentro do subflow)
 Abra o nó **MySQLdatabase** (a conexão usada pelas queries) e configure:
 
